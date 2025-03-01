@@ -14,9 +14,9 @@
 
 - 💬 Ask me about anything, I am happy to help
 - 👨‍💻 All of my projects are available at [https://github.com/SonikaPrajapati](https://github.com/SonikaPrajapati)
-- but some are private(Sorry for that)
 
-- 📫 How to reach me **shivamsavita2000@gmail.com**
+
+- 📫 How to reach me **sonikaprajapati633@gmail.com**
 
 - ⚡ Languages:  **SQL | C# | Asp.net core | HTML | AJAX**
 
