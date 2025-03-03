@@ -20,7 +20,7 @@
 
 - ⚡ Languages:  **SQL | C# | Asp.net core | HTML | AJAX**
 
-- 👨‍💼 <a href="https://www.linkedin.com/in/sonika-prajapati-631686302/" target="_blank" rel="nofollow">Linkedin</a>
+- 👨‍💼 <a href="https://www.linkedin.com/in/sonika-prajapati-37307a236" target="_blank" rel="nofollow">Linkedin</a>
 
 
 
