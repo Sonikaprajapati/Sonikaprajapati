@@ -5,7 +5,7 @@
 
 - 🌱 My First Blog is [ThePdfSite(http://thepdfsite.blogspot.com/)
 
-- :school: Final Year CSE student at [Sunrise College OfEngineering Unnao](https://www.linkedin.com/in/sonika-prajapati-631686302/) 
+- :school: Final Year CSE student at [Sunrise College OfEngineering Unnao](https://www.linkedin.com/in/sonika-prajapati-37307a236) 
 
 <!-- - 🔭 I’m currently working on  **Web Application Development** -->
 
